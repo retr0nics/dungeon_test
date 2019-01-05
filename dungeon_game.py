@@ -1,4 +1,4 @@
-#version alpha 1.01
+#version alpha 1.02
 import logging
 
 from sys import exit
